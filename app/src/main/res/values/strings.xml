@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SQLiteExampleProject</string>
+    <string name="students">Students</string>
+    <string name="manage_students">Manage students record</string>
+    <string name="name">Name</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="last_name">Last name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="enter_roll_number">Enter roll number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="transgender">Transgender</string>
+    <string name="subjects">Subjects</string>
+    <string name="math">Math</string>
+    <string name="physics">Physics</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="english">English</string>
+    <string name="tamil">Tamil</string>
+    <string name="save">Save</string>
+    <string name="index">Index</string>
+    <string name="studentObj">StudentObject</string>
+</resources>
